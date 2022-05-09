@@ -84,6 +84,6 @@ function tinhTienCap(loaiKH) {
       break;
     default:
       document.getElementById("txtThue2").innerHTML =
-        "Bạn chưa chọn loại khách hàng";
+        "Bạn chưa chọn loại khách hàng.";
   }
 }
